@@ -1,2 +1,2 @@
-# numerical-methods
-Tech: Jupyter Notebook
+# numerical_methods
+Tech: Python3, Jupyter Notebook
